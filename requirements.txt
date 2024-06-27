@@ -1,0 +1,6 @@
+Django>=3.0,<4.0
+djangorestframework
+gunicorn
+Pillow
+requests
+# Add any other dependencies your project needs
